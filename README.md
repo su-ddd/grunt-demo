@@ -8,7 +8,8 @@ Instructions
 1. Install [Node.js](http://nodejs.org/)
 2. Once Node.js is installed, run this command ``$ npm install -g grunt-cli``
 3. Create package.json and gruntfile.js in root directory of your project.
-4. Use the ``$ grunt watch`` command to run grunt.
+4. Run ``$ npm install`` whenever you make a change to package.json.
+5. Run ``$ grunt watch`` to use grunt.
 
 
 Resources
