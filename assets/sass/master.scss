@@ -17,15 +17,17 @@
     }
   }
 }
+
 $input_field: #999;
- $input_focus: #559ab9;
- $validation_passed: #8aba56;
- $validation_failed: #ba5656;
- $bg_colour: #f4f4f4;
- $box_colour: #fff;
- $border_style: 1px solid;
- $border_radius: 4px;
- html {
+$input_focus: #559ab9;
+$validation_passed: #8aba56;
+$validation_failed: #ba5656;
+$bg_colour: #f4f4f4;
+$box_colour: #fff;
+$border_style: 1px solid;
+$border_radius: 4px;
+
+html {
   background: $bg_colour;
 }
 body {
